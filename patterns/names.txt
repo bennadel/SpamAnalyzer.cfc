@@ -67,6 +67,9 @@ street
 lights
 clothing
 ^anony
+^anon$
+\b(scared)\b
+\b(chicken)\b
 flocculant
 tungsten
 carbide
@@ -594,3 +597,6 @@ g\+
 \b(casino)\b
 \b(online)\b
 \b(gambling)\b
+Ghostwriting
+eUKhost
+\b(kindle)\b
