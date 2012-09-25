@@ -3,7 +3,7 @@
 <cfparam name="form.submitted" type="boolean" default="false" />
 <cfparam name="form.userName" type="string" default="Cheap Viagra" />
 <cfparam name="form.userUrl" type="string" default="" />
-<cfparam name="form.userContent" type="string" default="Buy cheap viagra - best prices, discrete packaging. Overnight delivery." />
+<cfparam name="form.userContent" type="string" default="Buy cheap WOW gold - best prices, around. Warcraft is the best!" />
 
 
 <!--- ----------------------------------------------------- --->
@@ -43,6 +43,7 @@
 	<!doctype html>
 	<html>
 	<head>
+		<meta charset="utf-8" />
 		<title>Detecting Spam With SpamAnalyzer.cfc</title>
 	</head>
 	<body>
