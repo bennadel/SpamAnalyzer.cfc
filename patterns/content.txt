@@ -212,3 +212,6 @@ juhuobao
 socialsweep
 tera.gold
 ^(?=[\w\w]{0,20})[\W\w]+?\<h1
+isitdownforjustme\.com
+^fuck$
+verycoldfusion\.blogspot\.com

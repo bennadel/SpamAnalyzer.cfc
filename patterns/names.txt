@@ -600,3 +600,6 @@ g\+
 Ghostwriting
 eUKhost
 \b(kindle)\b
+clipping.?path
+whitestoneptofqueens
+pixsansar
